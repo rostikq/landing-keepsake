@@ -2,7 +2,7 @@
 
 Адаптивний односторінковий лендінг дизайн-агенції Keepsake (Lab 7, Завдання 4).
 
-**Demo:** https://<your-username>.github.io/landing-keepsake/
+**Demo:** https://rostikq.github.io/landing-keepsake
 
 ## Технології та рішення
 - Семантичний HTML5 (`header`, `nav`, `main`, `section`, `article`, `footer`, `form`), один `h1`.
